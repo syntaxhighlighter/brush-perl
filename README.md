@@ -1,6 +1,6 @@
 # syntaxhighlighter/brush-perl
 
-perl brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
+Perl brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
 [![Build Status](https://travis-ci.org/alexgorbatchev/brush-perl.svg)](https://travis-ci.org/alexgorbatchev/brush-perl)
 
