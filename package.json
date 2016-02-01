@@ -1,5 +1,5 @@
 {
-  "name": "brush-perl",
+  "name": "@alexgorbatchev/brush-perl",
   "version": "4.0.0",
   "description": "perl brush module for SyntaxHighlighter.",
   "keywords": [
