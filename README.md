@@ -2,11 +2,11 @@
 
 Perl brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/brush-perl.svg)](https://travis-ci.org/alexgorbatchev/brush-perl)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/brush-perl.svg)](https://travis-ci.org/syntaxhighlighter/brush-perl)
 
 ## Installation
 
-    npm install syntaxhighlighter/brush-perl
+    npm install @alexgorbatchev/brush-perl
 
 ## Testing
 
