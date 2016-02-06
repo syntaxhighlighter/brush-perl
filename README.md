@@ -1,16 +1,27 @@
-# syntaxhighlighter/brush-perl
+# brush-perl
 
-Perl brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
-
+[![GratiPay](https://img.shields.io/gratipay/user/alexgorbatchev.svg)](https://gratipay.com/alexgorbatchev/)
 [![Build Status](https://travis-ci.org/syntaxhighlighter/brush-perl.svg)](https://travis-ci.org/syntaxhighlighter/brush-perl)
+![Downloads](https://img.shields.io/npm/dm/@alexgorbatchev/brush-perl.svg)
+![Version](https://img.shields.io/npm/v/@alexgorbatchev/brush-perl.svg)
+
+Perl brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter).
 
 ## Installation
 
-    npm install @alexgorbatchev/brush-perl
+```
+npm install @alexgorbatchev/brush-perl
+```
+
+## Usage
+
+Please see [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) for usage instructions.
 
 ## Testing
 
-    npm test
+```
+npm test
+```
 
 ## License
 
